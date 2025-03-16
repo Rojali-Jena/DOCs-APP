@@ -1,4 +1,4 @@
 
 # DOCs APP
 
-Built a docs app using React & Framer Motion
+Built a docs app using React, Tailwind CSS & Framer Motion
