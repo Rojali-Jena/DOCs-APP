@@ -10,7 +10,7 @@ function Foreground() {
     {
       desc: "Lorem ipsum dolor sit amet consectetur ellet mode activate.",
       fileSize: ".4mb",
-      close: true,
+      close: false,
       tag: {
         isOpen: false,
         tagTitle: "Download Now",
